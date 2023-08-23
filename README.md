@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a BTech student with expertise in C++, Node.js, Flutter, Firebase, and UX/UI design. My passion for creating high-quality user experiences drives me to specialize in building dynamic and scalable applications.
+Hi there! I'm a BTech student with expertise in C++, MySQL, Flutter, Firebase, and UX/UI design. My passion for creating high-quality user experiences drives me to specialize in building dynamic and scalable applications.
 
 
 ## 🌐 Socials:
