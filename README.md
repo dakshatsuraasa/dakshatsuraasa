@@ -67,4 +67,8 @@
   <img src="https://profile-counter.glitch.me/dakshvasudev/count.svg?"  />
 </div>
 
+### MOTIVATION
+
+![harvey-specter-suits](https://github.com/dakshatsuraasa/dakshatsuraasa/assets/136306675/8bf1bce3-7d30-407a-8d9b-de3c7d9be691)
+
 ###
