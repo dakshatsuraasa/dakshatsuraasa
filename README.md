@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Daksh Vasudev from India<br><br>- 🔭 I’m working as Flutter Developer.<br>- 📚 I'm currently learning WebDev and more on flutter.<br>- ⚡ In my free time I love to learn about geopolitics.</p>
+<p align="left">I'm Daksh Vasudev from India<br><br>- 🔭 I’m working as Flutter Developer.<br>- 📚 I'm currently learning WebDev, Swift and more on flutter.<br>- ⚡ In my free time I love to learn about geopolitics.</p>
 
 ###
 
@@ -42,6 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="Xcode logo" />
 </div>
 
 ###
