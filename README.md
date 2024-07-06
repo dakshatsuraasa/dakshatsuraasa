@@ -33,7 +33,7 @@
 ``` dart
 App Development: {Flutter, SwiftUI}
 Web Development: {HTML, CSS, Tailwind CSS, Javascript, ReactJS}
-Backend: {Firebase}
+Backend: {Firebase, Appwrite}
 ```
 
 ###
