@@ -43,9 +43,5 @@ Backend: {Firebase, Appwrite}
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dakshatsuraasa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<div align="center">
   <img src="https://github.com/dakshvasudev/dakshvasudev/assets/91746245/13aff186-3ffc-49c2-b03f-f24be224e609" alt="Harvey Specter" />
 </div>
