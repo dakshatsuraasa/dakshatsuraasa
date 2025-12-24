@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Daksh Vasudev from India<br><br>- 🔭 I’m working as Flutter Developer.<br>- 📚 I'm currently learning WebDev, Swift and more on flutter.<br>- ⚡ In my free time I love to learn about geopolitics</p>
+<p align="left">I'm Daksh Vasudev from India<br><br>- 🔭 I’m working as a Software Developer @Suraasa.<br>- 📚 I'm currently working as a app and web dev.<br>- ⚡ In my free time I love to learn about geopolitics</p>
 
 ###
 
